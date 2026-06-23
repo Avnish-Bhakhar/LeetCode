@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -18,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
