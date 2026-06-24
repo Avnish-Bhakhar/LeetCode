@@ -16,7 +16,7 @@ public:
         sort(v.begin(),v.end());
         reverse(v.begin(),v.end());
 
-        string ans = "";
+        string ans ;
         
         for (auto it : v)
         {
