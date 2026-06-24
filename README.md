@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -32,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
