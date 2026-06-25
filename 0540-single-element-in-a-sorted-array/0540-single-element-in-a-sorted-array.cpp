@@ -8,16 +8,12 @@ public:
             m[nums[i]]++;
         }
         
-        vector<pair<int,int>>v;
-        for (auto it : m){
-            v.push_back({it.second , it.first});
-        }
-
-        for( auto it : v)
+        
+        for( auto it : m)
         {
-            if(it.first == 1)
+            if(it.second == 1)
             {
-                return it.second;
+                return it.first;
             }
         }
         return -1;
