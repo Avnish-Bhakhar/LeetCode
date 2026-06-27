@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
