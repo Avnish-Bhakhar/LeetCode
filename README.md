@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
+| [2785-sort-vowels-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
