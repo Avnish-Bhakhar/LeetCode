@@ -3,7 +3,7 @@ public:
     bool detectCapitalUse(string word) {
         int cnt = 0;
 
-        for  (auto i : word)
+        for  (char i : word)
         {
             if(i >= 'A' && i <= 'Z')
             {
@@ -18,6 +18,6 @@ public:
         if(cnt == 1 && isupper(word[0])){
             return true;
         }
-    return false;
+        return false;
     }
 };
