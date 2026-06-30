@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0859-buddy-strings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0859-buddy-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Heap (Priority Queue)
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
