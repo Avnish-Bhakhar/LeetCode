@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0069-sqrtx) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Interactive
 |  |
 | ------- |
