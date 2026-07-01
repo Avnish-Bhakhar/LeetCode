@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
