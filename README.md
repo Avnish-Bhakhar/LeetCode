@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0069-sqrtx) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Interactive
 |  |
 | ------- |
