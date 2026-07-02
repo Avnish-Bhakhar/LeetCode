@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
+| [0791-custom-sort-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0791-custom-sort-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0791-custom-sort-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0859-buddy-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
