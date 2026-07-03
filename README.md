@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
