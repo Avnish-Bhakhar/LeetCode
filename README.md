@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
