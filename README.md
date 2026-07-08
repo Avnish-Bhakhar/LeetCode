@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0791-custom-sort-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
