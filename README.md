@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1922-count-good-numbers](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1922-count-good-numbers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Interactive
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
