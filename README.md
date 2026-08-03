@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1922-count-good-numbers) |
@@ -231,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1260-shift-2d-grid) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
