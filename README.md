@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [3731-find-missing-elements](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0791-custom-sort-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0791-custom-sort-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [3731-find-missing-elements](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
