@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Math
