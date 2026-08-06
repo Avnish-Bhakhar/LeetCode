@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1922-count-good-numbers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
