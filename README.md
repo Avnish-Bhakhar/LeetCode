@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
