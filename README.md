@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
