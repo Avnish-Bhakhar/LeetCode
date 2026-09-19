@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
