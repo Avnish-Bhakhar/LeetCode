@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0832-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Minimax
 |  |
