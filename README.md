@@ -319,4 +319,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/4062-transform-array-using-pair-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
