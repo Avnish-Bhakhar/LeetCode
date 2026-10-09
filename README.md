@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0455-assign-cookies) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
