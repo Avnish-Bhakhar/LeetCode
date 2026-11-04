@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4062-transform-array-using-pair-operations](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/4062-transform-array-using-pair-operations) |
 ## Two Pointers
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Avnish-Bhakhar/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
